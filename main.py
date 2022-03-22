@@ -25,9 +25,6 @@
 #     Call output_total_reading_time(book_name, total_hour, total_min, num_books)
 #     Call output_end()
 # End Module
-import cgitb
-
-cgitb.enable()
 
 MAX = 5
 
